@@ -96,4 +96,5 @@ def main():
     write_last_success(now_iso)
     print(f"[+] Updated last success timestamp to: {now_iso}")
 
-if __name_
+if __name__ == "__main__":
+    main()
