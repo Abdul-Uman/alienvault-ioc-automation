@@ -4552,3 +4552,13 @@ induspayments.com
 indusx.tech
 tralalarkefe.com
 vebrf.digital
+advapi32.lib
+beboss34.ru
+caribb.ru
+fanonlyatn.xyz
+fudcrypt.net
+hijacklibs.net
+mekhovaya-shuba.ru
+mstelemetrycloud.com
+shell32.lib
+winhttp.lib
