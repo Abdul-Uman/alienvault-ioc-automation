@@ -8505,3 +8505,7 @@ setupmypasskey.com
 snapshot.xyz
 syncmykey.com
 validationsetupac.com
+mfaregister.com
+oskey.com
+passkey-mfa.com
+registermymfa.com
